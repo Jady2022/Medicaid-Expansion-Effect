@@ -27,14 +27,9 @@ Our analysis identifies heterogenous treatment effects, showing that Medicaid ex
 
 # 📦 **Data Availability (Raw CPS Microdata)**
 
-The raw CPS microdata used in this project is obtained from **IPUMS CPS**.
-Due to GitHub’s file size limit (25MB) and IPUMS licensing restrictions, the full raw dataset (**≈194MB, 6,068,055 rows**) cannot be uploaded to this repository.
+**"Raw data is not included due to size/license constraints.
 
-Instead, users can reproduce the data extract by following the instructions below.
-
----
-
-## 🔄 **How to Reproduce the Dataset**
+Follow these steps to reproduce the dataset."**
 
 1. Visit **IPUMS CPS**:
    [https://cps.ipums.org](https://cps.ipums.org)
