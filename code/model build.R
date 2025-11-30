@@ -1,5 +1,5 @@
 # Set the path
-setwd("/Users/RuochengJiang/project")
+setwd("/Users/Jady/project")
 
 #import the dataset
 cps_data <- read.csv("cps_00006.csv")
