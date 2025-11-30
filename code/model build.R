@@ -1,5 +1,5 @@
 # Set the path
-setwd("/Users/RuochengJiang/Desktop/UTD/Semester Spring 2025/BUAN6312 Time Series/project")
+setwd("/Users/RuochengJiang/project")
 
 #import the dataset
 cps_data <- read.csv("cps_00006.csv")
