@@ -1,5 +1,5 @@
 # Set the path
-setwd("/Users/jady/Desktop/UTD/Semester Spring 2025/BUAN6312 Time Series/proposal examples")
+setwd("/Users/jady/Desktop/proposal examples")
 
 #import the dataset
 cps_data <- read.csv("cps_00006.csv")
