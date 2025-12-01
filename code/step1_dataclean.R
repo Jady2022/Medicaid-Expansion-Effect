@@ -1,5 +1,5 @@
 # Set the path
-setwd("/Users/jady/Desktop/proposal examples")
+setwd("/Users/jady/Desktop/project")
 
 #import the dataset
 cps_data <- read.csv("cps_00006.csv")
@@ -39,7 +39,7 @@ cps_clean <- cps_data %>%
 
 summary(cps_clean)
 nrow(cps_clean)
-write.csv(cps_clean, "cps_clean_ready.csv", row.names = FALSE)
+write.csv(cps_clean, "cps_clean_ready_GitHub.csv", row.names = FALSE)
 
 #Setting treatment group and control group
 #There are 10 states did not adopt the medicaid expansion decision till now: WY, KS, TX, WI, TN, MS, AL, GA, SC, FL
